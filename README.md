@@ -76,6 +76,12 @@ Now let's write some css now!
 }
 #div1, #div2, #div3{
   text-align: center;
+  border-radius: 100px 100px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .hide{
   border-radius: 10px 10px;
