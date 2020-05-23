@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-direction: border-box;
+  font-family: sans-serif;
+}
+.shownavbar{
+  border-radius: 10px 10px;
+  height: 25px;
+  width: 100px;
+}
+.shownavbar i{
+  color: red;
+}
+.shownavbar:hover i{
+  background: yellow;
+  color: red;
+}
+.shownavbar:hover{
+  background: yellow;
+}
+#div1{
+  background: green;
+  text-decoration: none;
+}
+#div2{
+  background: red;
+  text-decoration: none;
+}
+#div3{
+  background: yellow;
+  text-decoration: none;
+}
+#div1, #div2, #div3{
+  text-align: center;
+}
+.hide{
+  border-radius: 10px 10px;
+  height: 25px;
+  width: 100px; 
+}
