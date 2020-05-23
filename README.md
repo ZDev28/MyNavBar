@@ -112,3 +112,5 @@ My repl.it post for this:
 https://repl.it/talk/share/My-Own-Navbar/38914
 
 ### I hope you had fun!!
+
+Note: You can edit it and make it better!
